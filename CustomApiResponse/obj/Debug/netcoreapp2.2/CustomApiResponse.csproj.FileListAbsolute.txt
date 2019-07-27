@@ -1,0 +1,14 @@
+C:\Users\Shubham Chauhan\source\repos\CustomApiResponse\CustomApiResponse\bin\Debug\netcoreapp2.2\CustomApiResponse.deps.json
+C:\Users\Shubham Chauhan\source\repos\CustomApiResponse\CustomApiResponse\bin\Debug\netcoreapp2.2\CustomApiResponse.runtimeconfig.json
+C:\Users\Shubham Chauhan\source\repos\CustomApiResponse\CustomApiResponse\bin\Debug\netcoreapp2.2\CustomApiResponse.runtimeconfig.dev.json
+C:\Users\Shubham Chauhan\source\repos\CustomApiResponse\CustomApiResponse\bin\Debug\netcoreapp2.2\CustomApiResponse.dll
+C:\Users\Shubham Chauhan\source\repos\CustomApiResponse\CustomApiResponse\bin\Debug\netcoreapp2.2\CustomApiResponse.pdb
+C:\Users\Shubham Chauhan\source\repos\CustomApiResponse\CustomApiResponse\obj\Debug\netcoreapp2.2\CustomApiResponse.csprojAssemblyReference.cache
+C:\Users\Shubham Chauhan\source\repos\CustomApiResponse\CustomApiResponse\obj\Debug\netcoreapp2.2\CustomApiResponse.csproj.CoreCompileInputs.cache
+C:\Users\Shubham Chauhan\source\repos\CustomApiResponse\CustomApiResponse\obj\Debug\netcoreapp2.2\CustomApiResponse.RazorAssemblyInfo.cache
+C:\Users\Shubham Chauhan\source\repos\CustomApiResponse\CustomApiResponse\obj\Debug\netcoreapp2.2\CustomApiResponse.RazorAssemblyInfo.cs
+C:\Users\Shubham Chauhan\source\repos\CustomApiResponse\CustomApiResponse\obj\Debug\netcoreapp2.2\CustomApiResponse.AssemblyInfoInputs.cache
+C:\Users\Shubham Chauhan\source\repos\CustomApiResponse\CustomApiResponse\obj\Debug\netcoreapp2.2\CustomApiResponse.AssemblyInfo.cs
+C:\Users\Shubham Chauhan\source\repos\CustomApiResponse\CustomApiResponse\obj\Debug\netcoreapp2.2\CustomApiResponse.RazorTargetAssemblyInfo.cache
+C:\Users\Shubham Chauhan\source\repos\CustomApiResponse\CustomApiResponse\obj\Debug\netcoreapp2.2\CustomApiResponse.dll
+C:\Users\Shubham Chauhan\source\repos\CustomApiResponse\CustomApiResponse\obj\Debug\netcoreapp2.2\CustomApiResponse.pdb
